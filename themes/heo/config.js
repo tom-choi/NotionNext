@@ -83,7 +83,7 @@ const CONFIG = {
       title_2: 'CSS3',
       img_2: '/images/heo/20237c548846044a20dad68a13c0f0e1502f074602.webp',
       color_2: '#2c51db'
-    },
+    }, 
     {
       title_1: 'JS',
       img_1: '/images/heo/2023786e7fc488f453d5fb2be760c96185c0075502.webp',
