@@ -100,7 +100,7 @@ const CONFIG = {
       img_2: 'https://preview.redd.it/avjal33hpqo61.png?width=512&format=png&auto=webp&s=b652d83347448df74c8ba61c17b322e686ee32a4',
       color_2: '#1f1f1f'
     }
-  ],
+  ], 
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流頻道',
